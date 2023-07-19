@@ -1,6 +1,6 @@
 <h1>Olá! </h1>
 
-<div>
+<div align="center">
   <a href="https://github.com/andreyalbuquerquee">
   <img alt="Andrey Github Stats" align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=andreyalbuquerquee&theme=chartreuse-dark&show_icons=true">
   <img alt="Andrey Github Stats" align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyalbuquerquee&layout=compact&theme=chartreuse-dark">
@@ -30,7 +30,7 @@
 
   ##
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/andrey-albuquerque-leite-226441252" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
   <a href="mailto: andreynamikaze3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
