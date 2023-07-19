@@ -9,7 +9,7 @@
   ##
 
 
-<div style="display: inline-block">
+<div align="center" style="display: inline-block">
   <img alt="Andrey-Java" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img alt="Andrey-SpringBoot" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img alt="Andrey-JavaScript" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -25,7 +25,6 @@
   <img alt="Andrey-Docker" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img alt="Andrey-Git" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="Andrey-Linux" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-   <img alt="Andrey-Gif" align="right" width="100" src="https://cdn.discordapp.com/attachments/1058137617448845446/1131286224032776192/rika_fingers.gif">
 </div>
 
   ##
