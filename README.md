@@ -29,8 +29,7 @@
 
   ##
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/andrey-albuquerque-leite-226441252" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<div align="center"> 
   <a href="mailto: andreynamikaze3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
