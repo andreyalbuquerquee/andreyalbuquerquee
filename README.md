@@ -13,7 +13,7 @@
   <img alt="Andrey-JavaScript" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img alt="Andrey-TypeScript" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img alt="Andrey-NodeJs" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img alt="Andrey-NestJS" align="center" width="40" height="30" src="nestjs-original.svg">
+  <img alt="Andrey-NestJS" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
   <img alt="Andrey-Bootstrap" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img alt="Andrey-PostgreSQL" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img alt="Andrey-MongoDB" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
