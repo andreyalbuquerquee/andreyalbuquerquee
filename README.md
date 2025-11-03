@@ -2,8 +2,6 @@
 
 ![Banner](https://raw.githubusercontent.com/andreyalbuquerquee/andreyalbuquerquee/refs/heads/main/github-header-banner.png)
 
-<br>
-
 ## 📝 About Me
 
 <h3>Software Engineer focused on backend with Node.js/TypeScript. I enjoy turning complexity into simple, sustainable designs and follow principles like Clean Architecture, DDD, Clean Code, and SOLID. I see software as a living system: I value readability, testing, metrics, and healthy operations — always mindful of user impact, costs, and continuous evolution. Comfortable in remote, trust-based environments with autonomy, responsibility, and clear communication. Advanced English.</h3>
