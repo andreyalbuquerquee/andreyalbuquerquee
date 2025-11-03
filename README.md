@@ -1,34 +1,38 @@
-<h1>Olá! </h1>
+<div style="margin-top:50px"></div>
 
-<div align="center">
-  <a href="https://github.com/andreyalbuquerquee">
-  <img alt="Andrey Github Stats" align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=andreyalbuquerquee&theme=vue-dark&show_icons=true">
-  <img alt="Andrey Github Stats" align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyalbuquerquee&layout=compact&theme=vue-dark">
-</div>
-  
-  ##
+![Banner](https://raw.githubusercontent.com/andreyalbuquerquee/andreyalbuquerquee/refs/heads/main/github-header-banner.png)
+
+<br>
+<br>
+<br>
+
+## 📝 About Me
+
+<h3>Software Engineer focused on backend with Node.js/TypeScript. I enjoy turning complexity into simple, sustainable designs and follow principles like Clean Architecture, DDD, Clean Code, and SOLID. I see software as a living system: I value readability, testing, metrics, and healthy operations — always mindful of user impact, costs, and continuous evolution. Comfortable in remote, trust-based environments with autonomy, responsibility, and clear communication. Advanced English.</h3>
+
+<br>
+<br>
+<br>
+
+### <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/> Technologies That I Know
+<p align="">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,postgres,mongodb,docker,aws,githubactions,git,linux,jest&theme=dark" />
+</p>
+
+<br>
+<br>
+<br>
+
+### 📫 Connect With Me
+<a href="https://www.linkedin.com/in/andrey-albuquerque-leite/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 
-<div align="center" style="display: inline-block">
-  <img alt="JavaScript" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="TypeScript" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img alt="NodeJs" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img alt="NestJS" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
-  <img alt="React" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img alt="Tailwind" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
-  <img alt="PostgreSQL" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img alt="MongoDB" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img alt="Docker" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img alt="Git" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="Linux" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
 
-  ##
+<!-- Portfolio Soon
 
-<div align="center"> 
-  <a href="mailto: andreynamikaze3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-
-
-  ##
+<a href="https://your-website-or-portfolio.dev" target="_blank">
+<img src="https://img.shields.io/badge/website-111111.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=mysite style="margin-bottom: 5px;" />
+</a>
 
